@@ -32,5 +32,8 @@ public class Main {
         } else {
             System.out.println(year + " - Год не високосный");
         }
+        // Задача 4
+        System.out.println(" Задача 4");
+
     }
 }
